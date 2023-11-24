@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dead-weight
-- 👀 I’m interested in ultrafast laser physics.
-- 🌱 I’m currently learning coding methods for integrating camera hardware into optical schematics. 
-- 📫 How to reach me ...
+- 👀 I’m interested in ultrafast laser physics methods to understand non-equilibrium processes such as photo-induced phase transitions and non-thermal melting.
+- 🌱 I’m currently learning coding methods for integrating camera hardware into optical schematics with image analysis components. 
 
 <!---
 Dead-weight/Dead-weight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
