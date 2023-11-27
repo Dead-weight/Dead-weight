@@ -7,5 +7,5 @@ Dead-weight/Dead-weight is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![LuTmHx Red](https://github.com/Dead-weight/Dead-weight/assets/151807915/048a0780-7c75-43a4-ad26-498fe4c3dbb4)
-![XES 5 XDI Overlap](https://github.com/Dead-weight/Dead-weight/assets/151807915/2cc83175-5578-4763-8167-f007472f2147)
+
 
