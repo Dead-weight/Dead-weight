@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dead-weight
-- 👀 My research interests involve ultrafast laser physics methods to understand non-equilibrium processes such as photo-induced phase transitions and non-thermal melting.
+- 👀 My research interests involve ultrafast laser physics methods to better understand non-equilibrium processes such as photo-induced phase transitions and non-thermal melting.
 - 🌱 I’m currently developing coding tools that allow for integrating camera hardware into optical schematics along with components of image analysis. 
 - ༼ つ ◕_◕ ༽つ- How to reach me. email: vancleave.joshua@icloud.com
 <!---
